@@ -8,6 +8,7 @@ total = str(round((bill/people) * tip,2))
 
 #Format the result to 2 decimal places = 33.60
 print("Each person should pay: "+total)
+
 #Tip: There are 2 ways to round a number. You might have to do some Googling to solve this.💪
 
 #Write your code below this line 👇
